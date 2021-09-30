@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T13:23:08.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.279" etag="zPDAwanLynnmc6h2xQwz" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T13:38:17.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.279" etag="Y1ZB1447YC-cefAxrrjD" version="15.3.8" type="github">
   <diagram id="Y9sp35oUX_WYPwsPaZgL" name="Page-1">
-    <mxGraphModel dx="1842" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3387" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r8yxXnuiQZk5SVG_cQbu-1" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-630" y="260" as="sourcePoint" />
+            <mxPoint x="-1210" y="260" as="sourcePoint" />
             <mxPoint x="680" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -82,8 +82,8 @@
             <mxPoint x="480" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-13" value="Reply a survey form" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="60" height="40" as="geometry" />
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-13" value="Reply survey form" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y-fa3Kfw3hXkSDcUUGcE-15" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -174,6 +174,207 @@
         </mxCell>
         <mxCell id="42dyWgupvdeNLIr4IR8q-23" value="Classify Customer group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-310" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-17" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="400" as="sourcePoint" />
+            <mxPoint x="100" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-18" value="Customer Management ( by admin, company manager)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-19" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="370" as="sourcePoint" />
+            <mxPoint x="60" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-20" value="Update&amp;nbsp; customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-21" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="330" as="sourcePoint" />
+            <mxPoint x="60" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-22" value="Add&amp;nbsp; customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-23" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="300" as="sourcePoint" />
+            <mxPoint x="20" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-24" value="Delete customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-25" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="340" as="sourcePoint" />
+            <mxPoint x="-20" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-26" value="View info of customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-27" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-490" y="400" as="sourcePoint" />
+            <mxPoint x="-350" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-28" value="Company Management ( by admin)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-29" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-340" y="370" as="sourcePoint" />
+            <mxPoint x="-390" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-30" value="Update&amp;nbsp; company" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-31" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="330" as="sourcePoint" />
+            <mxPoint x="-390" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-32" value="Add company" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-33" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="300" as="sourcePoint" />
+            <mxPoint x="-430" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-34" value="Delete&amp;nbsp; company" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-35" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-540" y="340" as="sourcePoint" />
+            <mxPoint x="-470" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-36" value="View info of company" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-38" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-940" y="400" as="sourcePoint" />
+            <mxPoint x="-800" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-39" value="Appoinment schedule Management (Customer Service)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-40" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790" y="370" as="sourcePoint" />
+            <mxPoint x="-840" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-41" value="Update appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-42" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-680" y="330" as="sourcePoint" />
+            <mxPoint x="-840" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-43" value="Add&amp;nbsp; appoinment&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-44" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-950" y="300" as="sourcePoint" />
+            <mxPoint x="-880" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-45" value="Delete appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-46" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-990" y="340" as="sourcePoint" />
+            <mxPoint x="-920" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-47" value="View info of appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-49" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="445" as="sourcePoint" />
+            <mxPoint x="-880" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-50" value="Admit appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-51" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-830" y="480" as="sourcePoint" />
+            <mxPoint x="-810" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-52" value="Deny appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-53" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="y-fa3Kfw3hXkSDcUUGcE-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-700" y="260" as="sourcePoint" />
+            <mxPoint x="-720" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-54" value="Send request appointment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-55" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-753" y="150" as="sourcePoint" />
+            <mxPoint x="-583" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-56" value="Add appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-57" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-724" y="210" as="sourcePoint" />
+            <mxPoint x="-884" y="163.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-58" value="Update appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-59" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="220" as="sourcePoint" />
+            <mxPoint x="-670" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-61" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-810" y="136" as="sourcePoint" />
+            <mxPoint x="-740" y="176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-62" value="Update appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="120" width="70" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-64" value="Delete appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="105" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
