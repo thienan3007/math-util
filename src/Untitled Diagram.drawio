@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T13:21:43.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="KTee-AzpdNoh_7G-fJce" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T13:23:08.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.279" etag="zPDAwanLynnmc6h2xQwz" version="15.3.8" type="github">
   <diagram id="Y9sp35oUX_WYPwsPaZgL" name="Page-1">
-    <mxGraphModel dx="1888" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,11 +58,41 @@
         <mxCell id="r8yxXnuiQZk5SVG_cQbu-15" value="Manage Customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="130" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-3" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-4" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="366.5" as="sourcePoint" />
-            <mxPoint x="420" y="320" as="targetPoint" />
+            <mxPoint x="380" y="400" as="sourcePoint" />
+            <mxPoint x="520" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-5" value="Feedback to Company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="370" as="sourcePoint" />
+            <mxPoint x="480" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-9" value="Send feedback" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-11" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-13" value="Reply a survey form" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-15" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="310" as="sourcePoint" />
+            <mxPoint x="430" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-fa3Kfw3hXkSDcUUGcE-16" value="Make appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="42dyWgupvdeNLIr4IR8q-1" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
